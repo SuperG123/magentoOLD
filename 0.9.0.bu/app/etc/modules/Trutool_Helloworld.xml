@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Trutool_Helloworld>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Trutool_Helloworld>
+    </modules>
+</config> 
