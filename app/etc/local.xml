@@ -31,19 +31,19 @@
             <date><![CDATA[Fri, 16 Nov 2012 22:44:24 +0000]]></date>
         </install>
         <crypt>
-            <key><![CDATA[1111]]></key>
+            <key><![CDATA[]]></key>
         </crypt>
-        <disable_local_modules>false</disable_local_modules>
+        <disable_local_modules></disable_local_modules>
         <resources>
             <db>
                 <table_prefix><![CDATA[]]></table_prefix>
             </db>
             <default_setup>
                 <connection>
-                    <host><![CDATA[65.60.97.68]]></host>
-                    <username><![CDATA[devEric]]></username>
-                    <password><![CDATA[Moose123]]></password>
-                    <dbname><![CDATA[KTSSTG]]></dbname>
+                    <host><![CDATA[]]></host>
+                    <username><![CDATA[]]></username>
+                    <password><![CDATA[]]></password>
+                    <dbname><![CDATA[]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
@@ -58,7 +58,7 @@
         <routers>
             <adminhtml>
                 <args>
-                    <frontName><![CDATA[admin]]></frontName>
+                    <frontName><![CDATA[]]></frontName>
                 </args>
             </adminhtml>
         </routers>
