@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magentocommerce.com for more information.
+ *
+ * @category    solr search
+ * @package     default_modern
+ * @copyright   Copyright (c) 2011 Magento Inc. (http://www.magentocommerce.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+
+Supported layout update handles (action):
+- catalog_product_gallery
+- catalog_product_compare_index
+
+Supported layout update handles (special):
+- default
+- catalog_category_default
+- catalog_category_layered
+- catalog_product_view
+
+-->
+<layout version="0.1.0">
+
+<!--
+Default layout, loads most of the pages
+-->
+
+    <default>
+
+        <!-- Mage_Catalog 
+        <reference name="top.menu">
+            <block type="core/template" name="top.search" as="topSearch" template="catalogsearch/form.mini.phtml"/>
+        </reference>
+		<reference name="left">
+		<block type="cms/block" name="new_itmes_1" before="-">
+<action method="setBlockId"><block_id>new_items_1</block_id></action>
+</block>
+
+</reference>-->
+		<reference name="top.bar">
+            <block type="core/template" name="top.search" as="topSearch" template="catalogsearch/form.mini.phtml"/>
+        </reference>
+		<reference name="content">
+		
+            <!--block type="core/template" name="left.permanent.callout" template="callouts/left_col.phtml">
+                <action method="setImgSrc"><src>images/media/left_col_callout.jpg</src></action>
+                <action method="setImgAlt" translate="alt" module="catalog"><alt>Our customer service is available 24/7. Call us at (555) 555-0123.</alt></action>
+                <action method="setLinkUrl"><url>checkout/cart</url></action>
+            </block-->
+
+			    <!--block type="catalog/product_compare_sidebar" before="cart_sidebar" name="catalog.compare.sidebar" template="catalog/product/compare/sidebar.phtml"/-->
+         		<block type="catalogsearch/solrSurfr" name="catalogsearch.solrSurfr" template="catalogsearch/solrSurfr.phtml"/>
+         		<!--block type="catalog/product_compare_KtsCtFilter" before="cart_sidebar" name="catalog.compare.KtsCtFilter" template="catalog/product/compare/KtsCtFilter.phtml"/-->
+         		
+         </reference>
+        <reference name="footer_links">
+            <action method="addLink" translate="label title" module="catalog" ifconfig="catalog/seo/site_map"><label>Site Map</label><url helper="catalog/map/getCategoryUrl" /><title>Site Map</title></action>
+        </reference>
+        <block type="catalog/product_price_template" name="catalog_product_price_template" />
+ </default>      
+
+</layout>

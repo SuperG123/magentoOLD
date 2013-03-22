@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.0.1">
+    <trutools_Adminhtml_trutools_index>
+        <reference name="content">
+            <block type="Adminhtml/template" name="myform" template="trutools/pg1.phtml"/>
+        </reference>
+    </trutools_Adminhtml_trutools_index>
+</layout>

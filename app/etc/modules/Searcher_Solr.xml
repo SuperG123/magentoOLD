@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<config>
-    <modules>
-        <Searcher_Solr>
-            <active>true</active>
-            <codePool>local</codePool>
-        </Searcher_Solr>
-    </modules>
-</config>

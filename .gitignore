@@ -1,6 +1,51 @@
+## default ignore stuffs ##
+###########################
+
 INSTALL.txt
 LICENSE.txt
 README.txt
 demos/
 extras/documentation
 
+## KTS Ignore Stuffs ##
+#######################
+var/*
+app/etc/*
+.htaccess
+.htaccess.*
+.metadata
+.project
+.settings
+accTest
+media
+media/*
+other
+other/*
+Db_Dump
+downloader
+downloader/*
+images
+images/*
+prodUpper
+prodUpper/*
+solrSvrDev
+solrSvrDev/*
+
+## USE THIS LOCAL AS NEEDED PLEASE ##
+#####################################
+## app/
+## app/code/
+app/code/community/*
+## app/code/core
+## app/code/local
+##
+## app/design/
+## app/design/adminhtml
+## app/design/frontend/
+## app/design/frontend/base/
+## app/design/frontend/default/
+errors/*
+includes/*
+## js
+lib/*
+## 

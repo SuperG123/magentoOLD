@@ -6,10 +6,6 @@ class Searcher_Solr_Helper_Data extends Mage_Core_Helper_Abstract
 	
 	public function getResultUrl($query = null)
 	{
-		//return $this->_getUrl('catalogsearch/result', array(
-		//		'_query' => array(self::QUERY_VAR_NAME => $query),
-		//		'_secure' => Mage::app()->getFrontController()->getRequest()->isSecure()
-		//));
 		return $this->_getUrl('solr/result');
 	}
 	public function ajaxRes(){
