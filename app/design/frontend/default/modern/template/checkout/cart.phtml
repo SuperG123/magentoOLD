@@ -96,27 +96,9 @@
                 <tfoot>
                     <tr>
                         <td colspan="50" class="a-right">
-                        	<?php 
-                        	$ref= str_getcsv(str_replace('http://','',$_SERVER['HTTP_REFERER']),'/'); 
-                        	$refTest=$ref[1]."/".$ref[2];
-                        	$refBack=$_SERVER['HTTP_REFERER'];
-                        	
-                        	if($refTest = "catalogsearch/result"){
-                        		$res1=$refBack;
-                        	}else{
-								$res1=$this->getContinueShoppingUrl();
-							}
-							echo '<button id="contShopBut" type="button" title=" '.$this->__("Continue Shopping") .'" class="button btn-continue"><span><span>'.$this->__("Continue Shopping").'</span></span></button>';
-
-                        	/*
-                        	if($refTest = "catalogsearch/result"){
-								echo '<button type="button" title=" '.$this->__("Continue Shopping") .'" class="button btn-continue" onclick="setLocation('.$refBack.')"><span><span>'.$this->__("Continue Shopping").'</span></span></button>';
-							}else{
-								echo '<button type="button" title=" '.$this->__("Continue Shopping") .'" class="button btn-continue" onclick="setLocation('.$this->getContinueShoppingUrl().')"><span><span>'.$this->__("Continue Shopping").'</span></span></button>';
-							}
-							*/
-                        	?>
-                       
+                            <?php if($this->getContinueShoppingUrl()): ?>
+                                <button type="button" title="<?php echo $this->__('Continue Shopping') ?>" class="button btn-continue" onclick="setLocation('<?php echo $this->getContinueShoppingUrl() ?>')"><span><span><?php echo $this->__('Continue Shopping') ?></span></span></button>
+                            <?php endif; ?>
                             <button type="submit" title="<?php echo $this->__('Update Shopping Cart') ?>" class="button btn-update"><span><span><?php echo $this->__('Update Shopping Cart') ?></span></span></button>
                         </td>
                     </tr>
@@ -127,15 +109,7 @@
                 <?php endforeach ?>
                 </tbody>
             </table>
-            <script type="text/javascript">
-            decorateTable('shopping-cart-table')
-            jQuery(document).ready(function($){
-				$('#contShopBut').click( function(){
-					location.href='<?php echo $res1; ?>';
-				});
-            });
-            
-            </script>
+            <script type="text/javascript">decorateTable('shopping-cart-table')</script>
         </fieldset>
     </form>
     <div class="cart-collaterals">
@@ -145,8 +119,8 @@
                     <?php echo $_crosssell; ?>
                 <?php else: ?>
                 <div class="no-crosssell">
-                    <img src="<?php echo $this->getSkinUrl('images/media/callout1.jpg') ?>" alt="" />
-                    <img src="<?php echo $this->getSkinUrl('images/media/fpo_no_crosssell.gif') ?>" alt="" />
+                    <img src="<?php //echo $this->getSkinUrl('images/media/callout1.jpg') ?>" alt="" />
+                    <img src="<?php //echo $this->getSkinUrl('images/media/fpo_no_crosssell.gif') ?>" alt="" />
                 </div>
                 <?php endif; ?>
             </div>

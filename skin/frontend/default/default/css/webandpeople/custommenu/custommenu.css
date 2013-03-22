@@ -11,8 +11,7 @@ div.menu {
     float:left;
 	 padding: 0px 0px 0px 15px;
 	 margin: 0px;
-	 font-weight: bold;
-	font-size: 12px;
+	font-size: 14px;
 	text-transform: uppercase;
 	font-family: "Trebuchet MS";
 	height: 17px;
@@ -85,11 +84,11 @@ div.block2  {
 	_width: 150px; /*IE6*/
 }
 div.wp-custom-menu-popup a.act {
-    color: #04a0bb;
+    color: #E49100;
 }
 div.column {
 	float: left;
-	width: 150px; /* column width */
+	width: 170px; /* column width */
 	padding: 0px;
 	margin: 0px 10px 0px 0px;
 	_display: inline;/*IE6*/
@@ -107,20 +106,23 @@ a.level2:link, a.level2:visited {
 	background: url(http://www.etoolsrus.net/new_site/images/sm_arr.gif) no-repeat 0px 5px;
 	padding-left: 5px;
 	font-size: 11px;
-	color: #454545;
+	color: #8A8A8A;
 }
 a.level2:hover {
 	color: #d08900;
+	transition: all 1s ease 0s;
 }
 a.level1:link, a.level1:visited {
 	text-transform: uppercase;
 	font-size: 11px;
-	font-weight: ;
-	color: #989898;
+	font-weight: bold;
+	color: #A4A4A4;
+  padding: 0px 2px 2px 5px;
+  
 }
 a.level1:hover {
 	color: #d08900;
-        
+	transition: all 1s ease 0s;
 }
 div.level1 {
 	margin-bottom: 11px;

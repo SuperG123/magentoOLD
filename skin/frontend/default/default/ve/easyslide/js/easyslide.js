@@ -113,10 +113,10 @@ Object.extend(Object.extend(Glider.prototype, Abstract.prototype), {
         } else {
             var nextIndex = 1;
         }
-        
+        		if(this.sections[nextIndex]){
         this.moveTo(this.sections[nextIndex].id, this.scroller, {
             duration: this.options.duration
-        });
+        });		}else{		Event.stop(event);		}
         if (event) {
             Event.stop(event);
         }

@@ -65,9 +65,9 @@ Default layout, loads most of the pages
 			    <block type="catalog/product_compare_sidebar" before="cart_sidebar" name="catalog.compare.sidebar" template="catalog/product/compare/sidebar.phtml"/>
 			    
         </reference>
-       <!-- <reference name="gFilter">
+        <reference name="gFilter">
          	<block type="catalog/product_compare_KtsCtFilter" before="cart_sidebar" name="catalog.compare.KtsCtFilter" template="catalog/product/compare/KtsCtFilter.phtml"/>
-         </reference> -->
+         </reference>
          
         <reference name="footer_links">
             <action method="addLink" translate="label title" module="catalog" ifconfig="catalog/seo/site_map"><label>Site Map</label><url helper="catalog/map/getCategoryUrl" /><title>Site Map</title></action>

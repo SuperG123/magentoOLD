@@ -59,7 +59,7 @@ class Searcher_Solr_IndexController extends Mage_Core_Controller_Front_Action{
 		}
 		if($_REQUEST['atManu']){
 			$this->getManuList();
-		}	
+		}		
 	}
 
 // constants

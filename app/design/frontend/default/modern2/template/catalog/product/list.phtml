@@ -9,17 +9,18 @@
  * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 ?>
-
+<!-- Localized jQuery calls to google apis and local jQuery css -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="/skin/frontend/default/modern2/css/jquery-ui.css" />
 <?php
 /**
  * Product list template
  * @see Mage_Catalog_Block_Product_List
  */
-//flag to use ct filter view
-$fStat='ct';echo '<div id=fStat style="visibility:hidden" >'.$fStat.'</div>';
-//set page loc info
 $thisPgLoc=$this->getRequest()->getOriginalPathInfo();
 $thisPage=$this->getRequest()->getParams()['id'];
+
 
 function pgCol($thisPage){
 	$cataCol=Mage::getModel('catalog/category')
@@ -29,7 +30,7 @@ function pgCol($thisPage){
 	foreach($cataCol as $cc){
 		$pList[]=$cc->getId(); 
 	}
-	return $pList; //prod id's for category
+	return $pList;
 }
 
 function filterStat($pgCol){
@@ -47,9 +48,9 @@ function filterStat($pgCol){
 	return $f1Out;
 }
 
-$pgCol=pgCol($thisPage); //cata prod id's
+$pgCol=pgCol($thisPage);
+$ft1=filterStat($pgCol);
 
-//load collection of id's from cata
 $prodByCat= Mage::getResourceModel('catalog/product_collection')
 ->addIdFilter($pgCol)
 ->addAttributeToSelect('*');
@@ -57,20 +58,16 @@ $_helper = $this->helper('catalog/output');
 $prodByCat->load();
 
 //building array for tabs, in this case using ct_mats for tabs.
-
-//set tab header array
+$matsChar=array();
 if($prodByCat) {
 	foreach($prodByCat as $product){
-		if(!in_array($product->getCtMats(),$ct_tabs)){
-			$ct_tabs[]=$product->getCtMats();
+		if(array_search($product->getCt_mats(),$matsChar)===false){
+			array_push($matsChar,$product->getCt_mats());
 		}
-	}	
+	}
 }
 
-
-// depricated moved to ajax see gfilter/helper/data and filterFunk.js 
-//display Filter Results if there is a filter string and rf is not true	
-/*
+// display Filter Results if there is a filter string and rf is not true	
 $atList="";
 if(isset($_POST['use_mat'])){
 	$filAt1[0]=$_POST['use_mat'];
@@ -86,28 +83,22 @@ if(count($atList)>0 && $rf!=true){
 	$filtAtts='Filter Results';
 	array_push($matsChar,$filtAtts);
 }
-*/
 
 // start tabs section
-print_r('<div id="tabs"><ul><li id="fResTab"><a href="#fRes"><span>Filter Results1</span></li>');
-$tabCt=1;
-foreach($ct_tabs as $ct_tab){
-		print_r('<li id="'.$tabCt.'"><a href="#'.urlencode($ct_tab).'"><span>'.$ct_tab.'</span></a></li>');
-		$tabCt++;
+print_r('<div id="tabs"><ul>');
+for($i=0;$i<count($matsChar);$i++){
+		print_r('<li><a href="#'.urlencode($matsChar[$i]).'"><span>'.$matsChar[$i].'</span></a></li>');			
 }
 print_r("</ul>");
 //end build tab
 
 //TODO: Rebuild product display (not using tables... lol).
 //start tab content
-
-//filter results shell
-print_r('<div id="fRes"></div>');
-$panCt=1;
-foreach($ct_tabs as $ct_tab){
-		echo '<div id="'.urlencode($ct_tab).'" data-ct="'.$panCt.'" >';
+for($i=0;$i<count($matsChar);$i++){
+	if($i==0){
+		echo '<div id="'.urlencode($matsChar[$i]).'">';
 		$prodCol= Mage::getResourceModel('catalog/product_collection')
-			->addAttributetoFilter('ct_mats',$ct_tab)
+			->addAttributetoFilter('ct_mats',$matsChar[$i])
 			->addIdFilter($pgCol)
 			->addAttributeToSelect('*')
 			->load();
@@ -123,21 +114,157 @@ foreach($ct_tabs as $ct_tab){
 			echo '</table>'; 
 		}
 		echo '</div>';
-	$panCt++;
-	}
+	}else if($matsChar[$i]==$filtAtts){
+		echo '<div id="'.urlencode($matsChar[$i]).'">';
+		$prodCol= Mage::getResourceModel('catalog/product_collection');
+		foreach($filAt1 as $atCode){
+			$prodCol->addAttributetoFilter($atCode,array('in'=>$atList));	
+		}
+		$prodCol->addIdFilter($pgCol);
+		$prodCol->addAttributeToSelect('*');
+		$prodCol->load();
+		if(count($prodCol)<1){
+			print_r('<h3 class="filterNoResult">There were no results found for the filter options.</h3><p>please adjust your filter settings and try again</p>');
+		}else{
+			foreach($prodCol as $hssCol){
+				$productNameStripped = strip_tags($hssCol->getName());
+				echo '<table id="conTable1">';
+			echo '  <tr id="conRow1">';
+			echo '    <td id="conCell1a"><a href="'.$hssCol->getProductUrl() .'" title="'.strip_tags($hssCol->getImageLabel($hssCol, 'small_image'), null, true) .'" class="product-image"><img src="'.$this->helper('catalog/image')->init($hssCol, 'small_image')->resize(70).'" width="70" height="70" alt="'.strip_tags($hssCol->getImageLabel($hssCol, 'small_image'), null, true).'" /></a></td>';
+			echo '    <td id="conCell1b"><table id="conTable2"><tr><td><h2>'.$hssCol->getSku().'</h2></td></tr><tr><td><h2 class="product-name"><a href="'.$hssCol->getProductUrl().'" title="'.$productNameStripped.'">'.$hssCol->getName().'</a></h2><p>'.$_helper->productAttribute($hssCol, $hssCol->getShortDescription(), 'short_description').'</p></td></tr></table></td>';
+			echo '    <td id="conCell1c">'.$this->getPriceHtml($hssCol, true).'<p><button type="button" title="'.$this->__('Add to Cart') .'" class="button btn-cart" onclick=setLocation("'.$this->getAddToCartUrl($hssCol) .'")><span><span>'.$this->__('Add to Cart').'</span></span></button></p></td>';
+			echo '   </tr>';
+			echo '</table>'; 
+			}}
+			echo '</div>';
+		
+	}else{
+		echo '<div id="'.urlencode($matsChar[$i]).'">';
+		$prodCol= Mage::getResourceModel('catalog/product_collection')
+			->addAttributetoFilter('ct_mats',$matsChar[$i])
+			->addIdFilter($pgCol)
+			->addAttributeToSelect('*')
+			->load();
+
+		foreach($prodCol as $hssCol){
+			$productNameStripped = strip_tags($hssCol->getName());
+			echo '<table id="conTable1">';
+			echo '  <tr id="conRow1">';
+			echo '    <td id="conCell1a"><a href="'.$hssCol->getProductUrl() .'" title="'.strip_tags($hssCol->getImageLabel($hssCol, 'small_image'), null, true) .'" class="product-image"><img src="'.$this->helper('catalog/image')->init($hssCol, 'small_image')->resize(70).'" width="70" height="70" alt="'.strip_tags($hssCol->getImageLabel($hssCol, 'small_image'), null, true).'" /></a></td>';
+			echo '    <td id="conCell1b"><table id="conTable2"><tr><td><h2>'.$hssCol->getSku().'</h2></td></tr><tr><td><h2 class="product-name"><a href="'.$hssCol->getProductUrl().'" title="'.$productNameStripped.'">'.$hssCol->getName().'</a></h2><p>'.$_helper->productAttribute($hssCol, $hssCol->getShortDescription(), 'short_description').'</p></td></tr></table></td>';
+			echo '    <td id="conCell1c">'.$this->getPriceHtml($hssCol, true).'<p><button type="button" title="'.$this->__('Add to Cart') .'" class="button btn-cart" onclick=setLocation("'.$this->getAddToCartUrl($hssCol) .'")><span><span>'.$this->__('Add to Cart').'</span></span></button></p></td>';
+			echo '   </tr>';
+			echo '</table>'; 
+		}
+		echo '</div>';
+	}}
 echo '</div>';
-echo '<div id="listCon"></div>';
-$pCol = json_encode($pgCol);
 // end tab content
+
 ?>
 <script type="text/javascript">
-<!--
-//captin... full filteration system activated
-jQuery("#tabs").tabs();
-var fJSON=<?php echo Mage::helper('gfilter')->getFilterData($prodByCat); ?>;
-var jsCol=<?php echo $pCol; ?>;
 
--->
+$.noConflict();
+jQuery(document).ready(function($){
+	var filterAttrGo = "<?php echo $ft1[0];?>";
+	var filterUseGo = "<?php echo $ft1[1];?>";
+	if(filterAttrGo==1){$('#filters-show').append($('#FilterAttr').html());}
+	if(filterUseGo==1){$('#filters-show').append($('#FilterUse').html());}
+	
+	
+	 $("#tabs").tabs();
+	 $("#accordion").accordion({
+		 	collapsible:true,
+		 	active:false
+		});
+	 $("#accordion2").accordion({
+		 	collapsible:true,
+		 	active:false
+		});
+	 $('#clrBut').click(function(){
+			$('#ctFilter').append('<input type="hidden" name="rf" value="true" />');
+			$('#ctFilter').submit();	
+		});
+	$('#goBut').click(function(){
+			$('#ctFilter').submit();
+	});
+	
+}); 	
+</script>
+<script type="eric" id="FilterAttr"><?php 
+//$thisPgLoc=$this->getRequest()->getOriginalPathInfo();
+//$thisPage=$this->getRequest()->getParams()['id'];
+//$pgCol=pgCol($thisPage);
+/*$prodCol= Mage::getResourceModel('catalog/product_collection')
+	->addAttributetoFilter('attribute_set_id','104')
+	->addAttributeToSelect('*')	
+	->addIdFilter($pgCol)
+	->load();
+	*/
+$prodCol=$prodByCat;
+if($prodCol) {
+	foreach($prodCol as $prod){
+		if(array_search($prod->getCt_mats(),$tmp)===false){
+			//array_push($tmp,$prod->getCt_mats());
+		}
+	}
+}
+$atList=$pgCol;
+//$atList = Mage::getModel('catalog/product')->load($prod->getID());
+$atNames=array_keys($prod->getData());
+foreach($atNames as $atn){
+	$atn=$atn;
+}
+$accArr=array();
+$prAt = Mage::getResourceModel('catalog/product_attribute_collection');	
+	foreach($prAt as $pa1){
+		$atCode=$pa1->getAttribute_code();
+		$atLabel=$pa1->getFrontend_label();
+		if( strpos($atCode,'ct_')=== 0){
+			if(array_key_exists($atCode,$accArr)===false){
+				$accArr[$atCode]=$atLabel;
+			}
+		}
+	}
+	foreach($accArr as $l1=>$l2){
+		foreach($prodCol as $prod1){
+			$tVal = $prod1->getResource()->getAttribute($l1)->getFrontend()->getValue($prod1);
+			if($tVal){
+			  if(strstr($accArr2[$l1],$tVal)==false){
+				if(in_array($tVal,$accArr2[$l1])==false){
+				  $accArr2[$l1]=$accArr2[$l1].$tVal.',';
+				}
+			  }
+			}
+		}
+	}
+	print_r('<div id="filterBox"><h3>Filter</h3>');
+	print_r('<form id="ctFilter" name="ctFilter" action="'.$thisPgLoc.'" method="POST"><div id="accordion">');
+	foreach($accArr2 as $l1=>$l2){
+		$atName=$prod1->getResource()->getAttribute($l1)->getFrontend()->getLabel($prod1);
+		print_r('<h3 class="accordion_toggle"><strong>'.$atName.'</strong></h3><div class="accordion_content" id="brand">');
+		
+		$accCont=str_getcsv($l2,',');
+		foreach($accCont as $outty){
+			if($outty != ""){
+				if($_POST[urlencode($l1)]){
+					$x=$_POST[urlencode($l1)];
+						if(in_array($outty,$x) && $_POST['rf']!=true){
+							$ckd="checked";
+							print_r('<input type="checkbox" name="'.urlencode($l1).'[]" value="'.$outty.'" '.$ckd.'>&nbsp;'.$outty."<br/>");
+						}else{	
+							print_r('<input type="checkbox" name="'.urlencode($l1).'[]" value="'.$outty.'">&nbsp;'.$outty."<br/>");
+						}						
+				}else{
+					print_r('<input type="checkbox" name="'.urlencode($l1).'[]" value="'.$outty.'">&nbsp;'.$outty."<br/>");
+				}
+			}
+		}
+		echo '<br/><button id="goBut">Filter</button>&nbsp;&nbsp;';
+		echo'</div>';
+	}
+	echo '<button id="clrBut"><strong>Clear Filter</strong></button></form></div>';
+?>
 </script>
 <script type="eric" id="FilterUse">
 <?php //$thisPgLoc=$this->getRequest()->getOriginalPathInfo();
