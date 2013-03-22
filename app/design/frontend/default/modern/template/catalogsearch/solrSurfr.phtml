@@ -9,7 +9,8 @@ if($_GET['qRec'] || $_REQUEST['cat']): ?>
 			var bsState=$('#tt').val();
 			$.removeCookie('KTS_CC1');
 			$.removeCookie('KTS_ALD');
-			$.post('http://65.60.97.68/solr/index/index/',{qRec:$('#tt').val(),sDir:'KTS_DEV'}, function(data){ $('#solrBurn').html(data); },'html'); //qRec
+			var baseUrl='<?php echo $this->getBaseUrl(); ?>'
+			$.post(baseUrl+'/solr/index/index/',{qRec:$('#tt').val(),sDir:'KTS_DEV'}, function(data){ $('#solrBurn').html(data); },'html'); //qRec
 			$('#search').val($('#tt').val());
 			$('#bodySearch').val($('#tt').val());
 			$('#search').focus(function(){ $('#search').val(""); });
@@ -31,7 +32,8 @@ if($_GET['qRec'] || $_REQUEST['cat']): ?>
 			$('#pSearch').html(psOut);
 			$.cookie('KTS_PS',psOut);
 			}
-			$.post('http://65.60.97.68/solr/index/index/',{qRec:$('#bodySearch').val(),ff:'bmf'}, function(data){ $('#solrBurn').html(data); },'html'); //qRec
+			var baseUrl='<?php echo $this->getBaseUrl(); ?>'
+			$.post(baseUrl+'/solr/index/index/',{qRec:$('#bodySearch').val(),ff:'bmf'}, function(data){ $('#solrBurn').html(data); },'html'); //qRec
 			$('#bodySearch').val(bsState);
 		});
 

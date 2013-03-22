@@ -9,11 +9,13 @@
  */
 
 /**
+ * 
  * Searcher Solr IndexController
  *
  * @category   Searcher
  * @package    Searcher_Solr
  * @author     KTS Web Team <eric.gould@etoolsrus.com>
+ * 
  */
 
 /**

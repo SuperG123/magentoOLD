@@ -7826,3 +7826,710 @@
 2013-03-21T18:59:29+00:00 ERR (3): Notice: Undefined variable: cond  in /var/www/kts/magento/app/code/core/Mage/Page/Block/Html/Head.php on line 159
 2013-03-21T18:59:29+00:00 ERR (3): Notice: Undefined variable: if  in /var/www/kts/magento/app/code/core/Mage/Page/Block/Html/Head.php on line 158
 2013-03-21T18:59:29+00:00 ERR (3): Notice: Undefined variable: cond  in /var/www/kts/magento/app/code/core/Mage/Page/Block/Html/Head.php on line 159
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T20:50:01+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:01+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:02+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T20:50:02+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T20:50:02+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T20:50:02+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T20:50:06+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined offset: 1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 155
+2013-03-22T20:50:18+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 157
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: data  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 161
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T20:50:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:19+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:19+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:19+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T20:50:20+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T20:50:20+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 206
+2013-03-22T20:50:20+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T20:50:20+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T20:50:23+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 39
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T20:50:24+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 36
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T20:50:24+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:03:06+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T21:03:06+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:03:07+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:03:07+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 206
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T21:03:07+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 39
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T21:03:07+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T21:03:07+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:31+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T21:06:31+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 33
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:06:32+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:06:32+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 206
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T21:06:32+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T21:06:32+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 247
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 39
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 45
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 48
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 51
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 54
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 57
+2013-03-22T21:06:33+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 60
+2013-03-22T21:06:33+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:37+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:06:37+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:39+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:06:39+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:06:40+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:48:34+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:34+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:35+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:48:35+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:48:35+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:48:35+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:48:36+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:42+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:42+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:48:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:42+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:48:43+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:44+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:48:45+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:48:45+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 208
+2013-03-22T21:48:45+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T21:48:45+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 41
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:48:46+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:48:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:53+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:48:53+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:49:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:49:18+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:49:19+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:50:40+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:50:40+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:50:41+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:50:45+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:50:45+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:50:46+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:50:46+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 208
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T21:50:46+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 41
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:50:46+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:50:46+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:38+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:51:38+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:51:39+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:42+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:51:42+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:51:43+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:52+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:52+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:51:52+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:51:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 208
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: spellcheck  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 130
+2013-03-22T21:51:52+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 132
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 41
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:51:52+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:51:53+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: sDir  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:51:53+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:04+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Deprecated functionality: Function eregi() is deprecated  in C:\xampp\htdocs\magento\app\code\local\Ve\EasySlide\Block\List.php on line 91
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant width - assumed 'width'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant height - assumed 'height'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 8
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant folder - assumed 'folder'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 24
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant duration - assumed 'duration'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 60
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant autoplay - assumed 'autoplay'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 61
+2013-03-22T21:53:04+00:00 ERR (3): Notice: Use of undefined constant interval - assumed 'interval'  in C:\xampp\htdocs\magento\app\design\frontend\default\modern\template\ve\easyslide\list.phtml on line 62
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:13+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 38
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: sDir  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 42
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:53:13+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:53:15+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:15+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:16+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:53:16+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:53:16+00:00 ERR (3): Notice: Undefined variable: if  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 158
+2013-03-22T21:53:16+00:00 ERR (3): Notice: Undefined variable: cond  in C:\xampp\htdocs\magento\app\code\core\Mage\Page\Block\Html\Head.php on line 159
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 99
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 100
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 101
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 102
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 103
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 104
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined variable: cookieParams  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:18+00:00 ERR (3): Warning: call_user_func_array() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Mage\Core\Model\Session\Abstract\Varien.php on line 113
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:53:18+00:00 ERR (3): Notice: Undefined index: test  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 35
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: priceArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:53:19+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 52
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: cataInfo  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:53:19+00:00 ERR (3): Warning: Invalid argument supplied for foreach()  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 39
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: _catName  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined variable: catArr  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Warning: array_key_exists() expects parameter 2 to be array, null given  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\Helper\Data.php on line 98
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 248
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: qRec  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 248
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Use of undefined constant _query - assumed '_query'  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 249
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: sug  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 41
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: sku  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 44
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: sug1  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 47
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: nova  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 50
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: ajax  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 53
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: const  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 56
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: atSet  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 59
+2013-03-22T21:53:19+00:00 ERR (3): Notice: Undefined index: atManu  in C:\xampp\htdocs\magento\app\code\local\Searcher\Solr\controllers\IndexController.php on line 62
+2013-03-22T21:53:19+00:00 DEBUG (7): HEADERS ALREADY SENT: <pre>[0] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:52
+[1] C:\xampp\htdocs\magento\lib\Zend\Controller\Response\Abstract.php:766
+[2] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Response\Http.php:83
+[3] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Controller\Varien\Front.php:188
+[4] C:\xampp\htdocs\magento\app\code\core\Mage\Core\Model\App.php:354
+[5] C:\xampp\htdocs\magento\app\Mage.php:683
+[6] C:\xampp\htdocs\magento\index.php:87
+</pre>

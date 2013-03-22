@@ -43,7 +43,7 @@
                     <host><![CDATA[65.60.97.68]]></host>
                     <username><![CDATA[devEric]]></username>
                     <password><![CDATA[Moose123]]></password>
-                    <dbname><![CDATA[KTSSTG]]></dbname>
+                    <dbname><![CDATA[TRUDEV]]></dbname>
                     <initStatements><![CDATA[SET NAMES utf8]]></initStatements>
                     <model><![CDATA[mysql4]]></model>
                     <type><![CDATA[pdo_mysql]]></type>
